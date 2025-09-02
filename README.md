@@ -32,17 +32,25 @@
   
 
 
+## 📫 Connect with me  
+
 <p align="left">
   <!-- LinkedIn -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/sumithajare" >
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn Logo"/>
+  </a>
   &nbsp;&nbsp;
 
   <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+  <a href="https://github.com/sumithajare11" >
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub Logo"/>
+  </a>
   &nbsp;&nbsp;
 
   <!-- Gmail -->
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="50" height="50" alt="Gmail"/>
+  <a href="mailto:sumithajare2003@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="50" height="50" alt="Gmail Logo"/>
+  </a>
 </p>
 
 
