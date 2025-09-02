@@ -29,25 +29,52 @@
 ---
 
 ## 🌐 Connect with Me  
-### 📫 Connect with me
-### 📫 Connect with me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumithajare)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumithajare11)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumit.hajare@example.com)
+  
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumithajare)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumithajare11)
- 
-- ✉️ (sumithajare2003@gmail.com)
+<p align="left">
+  <!-- LinkedIn -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
+  &nbsp;&nbsp;
 
-###  Tools & Technologies
-![Python](https://img.shields.io/badge/-Python-blue?logo=python)
-![Arduino](https://img.shields.io/badge/-Arduino-grey?logo=arduino)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-green?logo=raspberry-pi)
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
-![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazon-aws)
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+  &nbsp;&nbsp;
+
+  <!-- Gmail -->
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="50" height="50" alt="Gmail"/>
+</p>
+
+
+
+
+
+
+
+## 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+    &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/>
+    &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+    &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="50" alt="Arduino"/>
+    &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="50" height="50" alt="Raspberry Pi"/>
+    &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+    &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
+    &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="50" height="50" alt="Turbo C++"/>
+</p>
+
+
+
+
+
 
 ⭐ *Always open to collaboration on AI, IoT, and Embedded Systems projects!*  
 
