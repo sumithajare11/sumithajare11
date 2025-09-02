@@ -8,7 +8,7 @@
 ---
 
 ## 🔧 Skills & Technologies  
-- **Programming:** Python, C/C++, Java  
+- **Programming:** Python, C, Java(basic), Embedded C
 - **AI/ML:** Generative AI, Prompt Engineering, LangChain (basic), RAG  
 - **Embedded/IoT:** Arduino, ESP32, Raspberry Pi, Sensors & Actuators  
 - **Software Development:** Data Structures & Algorithms, OOP, Linux, Git/GitHub  
