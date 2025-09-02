@@ -29,11 +29,25 @@
 ---
 
 ## 🌐 Connect with Me  
-- 💼 [LinkedIn](www.linkedin.com/in/sumit-hajare-3b562132b)  
-- 📂 [GitHub](https://github.com/sumithajare11)  
+### 📫 Connect with me
+### 📫 Connect with me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumithajare)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumithajare11)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumit.hajare@example.com)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumithajare)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumithajare11)
+ 
 - ✉️ (sumithajare2003@gmail.com)
 
----
+###  Tools & Technologies
+![Python](https://img.shields.io/badge/-Python-blue?logo=python)
+![Arduino](https://img.shields.io/badge/-Arduino-grey?logo=arduino)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-green?logo=raspberry-pi)
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
+![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazon-aws)
 
 ⭐ *Always open to collaboration on AI, IoT, and Embedded Systems projects!*  
 
