@@ -29,9 +29,9 @@
 ---
 
 ## 🌐 Connect with Me  
-- 💼 [LinkedIn](https://linkedin.com/in/sumithajare)  
+- 💼 [LinkedIn](www.linkedin.com/in/sumit-hajare-3b562132b)  
 - 📂 [GitHub](https://github.com/sumithajare11)  
-- ✉️ sumithajare2003@gmail.com  
+- ✉️ (sumithajare2003@gmail.com)
 
 ---
 
