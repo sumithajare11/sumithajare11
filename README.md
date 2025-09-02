@@ -37,19 +37,16 @@
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sumithajare">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn Logo" style="border:none; text-decoration:none;"/>
-  </a>
   &nbsp;&nbsp;
 
   <!-- GitHub -->
   <a href="https://github.com/sumithajare11">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub Logo" style="border:none; text-decoration:none;"/>
-  </a>
   &nbsp;&nbsp;
 
   <!-- Gmail -->
   <a href="mailto:sumithajare2003@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="50" height="50" alt="Gmail Logo" style="border:none; text-decoration:none;"/>
-  </a>
 </p>
 
 
