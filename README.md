@@ -92,9 +92,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/></a>
   &nbsp;&nbsp;
 
-  <!-- Turbo C++ -->
+  <!-- Turbo C -->
   <a href="https://turboc.codes/" target="_blank">
-    <img src="https://img.icons8.com/?size=512&id=40670&format=png" width="50" height="50" alt="https://turbo-c.net/online-c-compiler/"/></a>
+    <img src="https://img.icons8.com/?size=512&id=40670&format=png" width="50" height="50" alt="https://turbo-c.net/"/></a>
 </p>
 
 
