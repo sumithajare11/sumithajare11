@@ -33,7 +33,7 @@
 
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/sumithajare" style="text-decoration:none; border:none; outline:none;">
+  <a href="https://www.linkedin.com/in/sumit-hajare-3b562132b" style="text-decoration:none; border:none; outline:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn Logo"/></a>
   &nbsp;&nbsp;
 
