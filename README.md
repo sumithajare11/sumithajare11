@@ -80,3 +80,54 @@ Passionate B.Tech (Electronics & Telecommunication) graduate with hands-on exper
 </p>
 
 
+
+
+## 🛠️ Tools & Technologies
+
+
+<p align="left">
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/></a>
+  &nbsp;&nbsp;
+
+  <!-- C Language -->
+  <a href="https://devdocs.io/c/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/></a>
+  &nbsp;&nbsp;
+
+  <!-- Java -->
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/></a>
+  &nbsp;&nbsp;
+
+  <!-- Arduino -->
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="50" alt="Arduino"/></a>
+  &nbsp;&nbsp;
+
+  <!-- Raspberry Pi -->
+  <a href="https://www.raspberrypi.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="50" height="50" alt="Raspberry Pi"/></a>
+  &nbsp;&nbsp;
+
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/></a>
+  &nbsp;&nbsp;
+
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/></a>
+  &nbsp;&nbsp;
+
+  <!-- Turbo C -->
+  <a href="https://turboc.codes/" target="_blank">
+    <img src="https://img.icons8.com/?size=512&id=40670&format=png" width="50" height="50" alt="https://turbo-c.net/"/></a>
+</p>
+
+
+⭐ *Always open to collaboration on AI, IoT, and Embedded Systems projects!*
+
+
+
