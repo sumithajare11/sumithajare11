@@ -9,19 +9,12 @@ Passionate B.Tech (Electronics & Telecommunication) graduate with hands-on exper
 
 ## 🧠 Technical Skills
 
-### 💻 Programming Languages
-- C, Python, Embedded C (Basic)  
-- Java (Basic), JavaScript (Basic)
 
 ### 🔌 Embedded & IoT Technologies
 - Arduino, ESP32, ESP8266, Raspberry Pi  
 - Sensor Interfacing, Real-Time Systems, Automation  
 - MQTT, ThingSpeak, Blynk, Cloud Monitoring
 
-### 🛠 Tools & Platforms
-- Git, VS Code, MATLAB  
-- IoT Dashboards, Cloud-Based Monitoring  
-- TensorFlow (Basic)
 
 ### 📚 Core Competencies
 - Embedded Systems  
